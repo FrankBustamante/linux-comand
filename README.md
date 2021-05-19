@@ -1,1 +1,1 @@
-# linux-comand
+# linux-commands
