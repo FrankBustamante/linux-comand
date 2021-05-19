@@ -1,17 +1,17 @@
 # linux-commands
 
-- tar.gz
+- tar.gz  
   tar -czvf empaquetado.tar.gz /carpeta/a/empaquetar/   
   tar -xzvf archivo.tar.gz   
  
-- tar
+- tar  
   tar -cvf paquete.tar /dir/a/comprimir/  
   tar -xvf paquete.tar   
   
-- gz
+- gz  
   gzip -9 archivo  
   gzip -d archivo.gz    
   
-- zip
+- zip  
   zip archivo.zip carpeta   
   unzip archivo.zip  
