@@ -1,0 +1,6 @@
+https://github.com/tomaspinho/rtl8821ce
+
+cd Downloads/rtl8821ce/
+sudo apt install bc module-assistant build-essential dkms
+sudo m-a prepare
+sudo ./dkms-install.sh
