@@ -6,7 +6,7 @@
  
 - tar
   tar -cvf paquete.tar /dir/a/comprimir/
-  tar -xvf paquete.tar  
+  tar -xvf paquete.tar 
   
 - gz
   gzip -9 archivo
