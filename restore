@@ -1,0 +1,1 @@
+pg_restore  --host localhost --port 5432 --username <tu usuario db> --password --verbose --dbname <database name> <path to file>
