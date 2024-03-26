@@ -1,3 +1,5 @@
 pg_restore  --host localhost --port 5432 --username <tu usuario db> --password --verbose --dbname <database name> <path to file>
 
 pg_dump -U <user> -d <database name> >  <output filename>
+
+psql -d <database name> -f <filepath>
